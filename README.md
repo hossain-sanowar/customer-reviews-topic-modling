@@ -1,4 +1,5 @@
 # customer-reviews
+[![name](Retail_price_optimization.png)](Retail_price_optimization.png)
 
 Project Steps:
 - Importing the required libraries
