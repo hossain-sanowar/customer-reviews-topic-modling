@@ -1,5 +1,5 @@
 # customer-reviews
-[![name](Retail_price_optimization.png)](Retail_price_optimization.png)
+[![name](customer-reviews/roaming.png)](customer-reviews/roaming.png)
 
 Project Steps:
 - Importing the required libraries
