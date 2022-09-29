@@ -1,4 +1,4 @@
-# customer-reviews
+# customer-reviews-topic-modeling
 [![name](roaming.png)](roaming.png)
 
 # Project Steps:
