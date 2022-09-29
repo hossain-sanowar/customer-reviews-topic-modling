@@ -1,9 +1,9 @@
 # customer-reviews
 
 Project Steps:
-Importing the required libraries
-Loading the Dataset based on customer
-feedback
+- Importing the required libraries
+- Loading the Dataset based on customer
+- feedback
 Exploring textual data
 Using regex
 Cleaning textual data
