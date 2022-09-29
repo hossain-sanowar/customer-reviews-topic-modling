@@ -1,5 +1,5 @@
 # customer-reviews
-[![name](customer-reviews/roaming.png)](customer-reviews/roaming.png)
+[![name](roaming.png)](roaming.png)
 
 Project Steps:
 - Importing the required libraries
